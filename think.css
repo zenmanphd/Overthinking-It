@@ -1,4 +1,15 @@
 
+h1 {
+    color: rgb(183, 212, 223);  
+    text-align: left;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: normal;
+  }
+a  {
+  color: rgb(183, 212, 223);
+  text-align: center;
+  }
 .column {
     background-color: rgba(83, 98, 124, 0.70);
     width: 450px;
